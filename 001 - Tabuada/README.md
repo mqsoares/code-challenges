@@ -1,7 +1,6 @@
 <div align='center'>
 
 <h1> Code Challenges - Desafios de Código </h1>
-<h3> 🔺 Navegue pelo menu de branches para visualizar os desafios! </h3>
 
 <br>
 </div> 
