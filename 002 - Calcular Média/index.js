@@ -3,8 +3,8 @@ function calcMedia() {
     let total = 0;
     let qtde = arguments.length;
     
-    for (let i = 0; i < qtde ; i++) {
-        if (typeof arguments[i] !== 'number') {
+    for(let i = 0; i < qtde ; i++) {
+        if(typeof arguments[i] !== 'number') {
             throw Error(' Error - somente números');
         } 
         total += arguments[i];
