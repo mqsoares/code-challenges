@@ -42,4 +42,4 @@ basta fazer um pull request na branch específica em que deseja adicionar sua so
 <br>
 
 <p> ⭐ Sinta-se à vontade para dar estrela a este repositório! </p>
-</div> 
+</div>
