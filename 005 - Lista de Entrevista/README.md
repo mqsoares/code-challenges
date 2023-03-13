@@ -37,7 +37,8 @@
 "Thiago Melo"
 
 
-- Dada a lista de pessoas que irão ser entrevistadas, construa um script que determine os horários em que deverão ocorrer as entrevistas. 
+- Dada a lista de pessoas que irão ser entrevistadas, 
+construa um script que determine os horários em que deverão ocorrer as entrevistas. 
 
 1 - Devem ser definidas por ordem alfabética 
 2 - Começar às 9h e terminar às 17h
